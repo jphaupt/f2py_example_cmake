@@ -1,0 +1,3 @@
+[submodule "pointless-fortran"]
+	path = pointless-fortran
+	url = git@github.com:jphaupt/pointless-fortran.git
